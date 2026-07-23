@@ -1,0 +1,8 @@
+# Local agent instructions and tool state
+/AGENTS.md
+/CLAUDE.md
+/.codex/
+/.claude/
+
+# Local OS state
+.DS_Store
